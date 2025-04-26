@@ -1,4 +1,4 @@
-# Flipo-Madular-Clock-4x3x3-Flip-Disc-Display
+# Flipo-Modular-Clock-4x3x3-Flip-Disc-Display
 <a href="https://www.buymeacoffee.com/marcinsaj"><img src="https://github.com/marcinsaj/marcinsaj/blob/main/Buy-me-a-coffee.png" /></a>
 
 ---
