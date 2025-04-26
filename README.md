@@ -15,6 +15,6 @@
 ## Datasheet
   - project website - to do
   - [4x3x3 flip-disc display repository](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display)
-  - clock schematic - to do
+  - [clock controller schematic](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-Controller-4x3x3-Display-Schematic.pdf)
   - time setting instructions - to do
   - back panel description - to do
