@@ -9,7 +9,7 @@
 - accurate real-time clock (RTC) on board
 - the RTC clock memory is backed up by a supercapacitor, so the clock does not require an additional battery in the event of a power failure or turn off
 - clock dimensions: 53 x 137 x 142mm (2.1" x 5.4" x 5.6")
-- the clock requires a 12V DC power supply, 2A minimum current, 5.5mm plug diameter, 2.1mm center pin positive +
+- the clock requires a 12V DC power supply, 2A minimum current, 5.5mm plug diameter, 2.1mm center pin positive+
 - ISP programming connector - only for intermediate users
 
 ## Datasheet
