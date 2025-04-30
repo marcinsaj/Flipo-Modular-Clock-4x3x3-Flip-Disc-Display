@@ -19,4 +19,5 @@
   - time setting instructions - to do
   - back panel description - to do
 
+![Modular Flip-disc Clock](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/extras/modular-flipdisc-clock-cover-github.webp)
 ![Modular Flip-disc Clock Controller 4x3x3 Display Schematic](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/datasheet/Modular-Flip-disc-Clock-Controller-4x3x3-Display-Schematic.png)
