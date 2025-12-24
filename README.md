@@ -13,7 +13,7 @@
 ## Datasheet
   - [4x3x3 flip-disc display module v1 - outdated](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Display-Module-Schematic-v1.pdf)
   - [4x3x3 flip-disc display module v2 - current version](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Display-Module-Schematic-v2.pdf)
-  - [4x3x3 flip-disc controller module v1 - outdated](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Controller-Module-Schematic-v1.pdf)
+  - [4x3x3 flip-disc controller module v1 - outdated](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Controller-Module-Schematic-v1.pdf)
   - [4x3x3 flip-disc controller module v5 - current version](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Controller-Module-Schematic-v5.pdf)
   - project website - to do
   - time setting instructions - to do
