@@ -13,6 +13,7 @@
 ## Datasheet
   - [CLOCK USER MANUAL](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Manual-Modular-Flip-Disc-Clock.pdf)
   - [HOW TO READ THE DISPLAY](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-Disc-Clock-Symbols.pdf)
+  - [FIRMWARE](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/examples/Firmware-Modular-Flip-Disc-Clock.ino)
   - [4x3x3 flip-disc display module v1 - outdated](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Display-Module-Schematic-v1.pdf)
   - [4x3x3 flip-disc display module v2 - current version](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Display-Module-Schematic-v2.pdf)
   - [4x3x3 flip-disc controller module v1 - outdated](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Controller-Module-Schematic-v1.pdf)
@@ -20,7 +21,7 @@
 
 
 ## Modular Flip-Disc Clock – Programming and Firmware
-If you want to modify the firmware, you can program the clock via the ISP connector.
+If you want to modify the [firmware](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/examples/Firmware-Modular-Flip-Disc-Clock.ino), you can program the clock via the ISP connector.
 
 ### MiniCore Configuration
 Before burning the bootloader, install MiniCore using the following Boards Manager URL:
