@@ -20,7 +20,7 @@
   - [4x3x3 flip-disc controller module v5 - current version](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-disc-Clock-4x3x3-Controller-Module-Schematic-v5.pdf)
 
 
-## Modular Flip-Disc Clock – Programming and Firmware
+## Programming and Firmware
 If you want to modify the [firmware](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/examples/Firmware-Modular-Flip-Disc-Clock.ino), you can program the clock via the ISP connector.
 
 ### MiniCore Configuration
