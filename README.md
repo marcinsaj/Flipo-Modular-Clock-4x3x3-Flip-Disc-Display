@@ -29,7 +29,7 @@ https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
 
 ### In Arduino IDE → Tools, configure the settings as follows:
 - Board: ATmega328P / ATmega328PA
-- Clock: External 12 MHz
+- Clock: External 12 MHz ⚠
 - Bootloader: Yes (UART0)
 - BOD: 2.7V
 - EEPROM: Retained
