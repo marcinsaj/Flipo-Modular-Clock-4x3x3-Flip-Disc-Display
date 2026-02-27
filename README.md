@@ -1,4 +1,4 @@
-# Flipo-Modular-Clock-4x3x3-Flip-Disc-Display
+# Modular Flip-disc Clock
 
 ## Specification
 - the clock consists of two modules: controller module & flip-disc display module
