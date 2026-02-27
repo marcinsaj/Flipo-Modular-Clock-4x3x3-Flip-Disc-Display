@@ -20,6 +20,6 @@
   - back panel description - to do
 
 ![Modular Flip-disc Clock](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/extras/modular-flipdisc-clock-cover-github.webp)
-![Modular Flip-disc Clock - Digits](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/extras/Flipo-3x3-Flip-Disc-Display-Digits-2.png)
+![Modular Flip-disc Clock - Digits](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/extras/Modular-Flip-Disc-Clock-Symbols.webp)
 ![Modular Flip-disc Clock - 3x3 Module](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/extras/3x3-Flip-disc-Display-Counting-0-9.webp)
 ![Modular Flip-disc Clock - HH:MM](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/extras/HHMM-modular-flip-disc-clock.webp)
