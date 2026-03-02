@@ -25,10 +25,10 @@ Programming Procedure:
 #include <TimeLib.h>      // https://github.com/PaulStoffregen/Time
 #include <Wire.h>         // https://arduino.cc/en/Reference/Wire (included with Arduino IDE)
 #include <OneButton.h>    // https://github.com/mathertel/OneButton
-#include <EEPROM.h>       // https://www.arduino.cc/en/Reference/EEPROM (included with Arduino IDE)
-#include <SPI.h>
-#include <avr/pgmspace.h>
-#include <avr/wdt.h>
+#include <EEPROM.h>       // (included with Arduino IDE)
+#include <SPI.h>          // (included with Arduino IDE)
+#include <avr/pgmspace.h> // (included with Arduino IDE)
+#include <avr/wdt.h>      // (included with Arduino IDE)
 
 
 #define DEBUG 0
