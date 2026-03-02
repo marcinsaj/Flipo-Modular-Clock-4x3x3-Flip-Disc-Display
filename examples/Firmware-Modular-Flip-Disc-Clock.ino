@@ -1,4 +1,4 @@
-/* Modular Flip-Disc Clock – Programming and Firmware
+/* Modular Flip-disc Clock – Programming and Firmware
 
 MiniCore Configuration
 Before burning the bootloader, install MiniCore using the following Boards Manager URL:
