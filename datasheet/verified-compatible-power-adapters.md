@@ -16,5 +16,5 @@
 - Amazon Basics 65W; Model: PD65U-1TGA
 
 >[!TIP]
-> If you have issues powering the clock, see the list of [compatible power adapters](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/power-supply.md).
+> If you have issues powering the clock, see the list of [compatible power adapters](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/datasheet/verified-compatible-power-adapters.md).
 
