@@ -1,9 +1,12 @@
 ## Compatible Power Supply
 ### EU
-- [!IMPORTANT]
+- 
 - 
 - 
 ### US
 -
 -
 -
+>[!IMPORTANT]
+> test
+> test
