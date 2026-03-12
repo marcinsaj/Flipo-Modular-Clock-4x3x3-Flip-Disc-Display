@@ -1,4 +1,4 @@
-## Compatible Power Supply
+## [!IMPORTANT] Compatible Power Supply
 ### EU
 - 
 - 
