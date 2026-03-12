@@ -7,6 +7,6 @@
 -
 -
 -
->[!IMPORTANT]
+>[!TIP]
 > test
 > test
