@@ -8,5 +8,5 @@
 -
 -
 >[!TIP]
-> test
-> test
+> If you have issues powering the clock, see the list of [compatible power adapters]().
+
