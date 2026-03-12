@@ -1,4 +1,4 @@
-# Modular Flip-disc Clock
+# Modular Flip-Disc Clock
 
 ## Specification
 - the clock consists of two modules: controller module & flip-disc display module
