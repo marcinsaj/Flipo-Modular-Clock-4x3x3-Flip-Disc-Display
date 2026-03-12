@@ -4,6 +4,7 @@
 
 ## Compatible Power Supply
 ### EU
+- Baseus Speed Mini 20W; SKU: CCFS-SN01 (Not available on the manufacturer's website but available for sale)
 - Baseus Cube Pro USB-C 30W; SKU: CCXF000301
 - Baseus Cube Pro 3 Ports 65W; SKU: P10152301113-00 
 - Amazon Basics 65W; Model: PD65E-1TGA
