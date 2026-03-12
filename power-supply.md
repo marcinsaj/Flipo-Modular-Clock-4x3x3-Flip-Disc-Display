@@ -1,6 +1,6 @@
-## [!IMPORTANT] Compatible Power Supply
+## Compatible Power Supply
 ### EU
-- 
+- [!IMPORTANT]
 - 
 - 
 ### US
