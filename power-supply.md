@@ -2,6 +2,8 @@
 >The clock requires a USB-C PD power supply providing 12V and at least 1.5A.
 >Make sure to check the charger's technical specifications before purchasing, preferably on the manufacturer's website.
 
+---
+
 ## Verified Compatible Power Adapters
 ### EU
 - Baseus Speed Mini 20W; SKU: CCFS-SN01 (Not available on the manufacturer's website but available for sale)
