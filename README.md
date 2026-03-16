@@ -1,5 +1,8 @@
 # Modular Flip-Disc Clock
 
+>[!TIP]
+> If you have issues powering the clock, see the list of [compatible power adapters](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/blob/main/datasheet/verified-compatible-power-adapters.md).
+
 ## Specification
 - the clock consists of two modules: controller module & flip-disc display module
 - two buttons for setting the time
