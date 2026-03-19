@@ -16,4 +16,5 @@
 - Baseus GaN3 Pro 100W; SKU: CCGP000101
  
 ### US
+- MOKiN Mini 40W Dual; SKU: MOPA0303BK, ASIN: B0DKJDFRVG 
 - Amazon Basics 65W; Model: PD65U-1TGA
