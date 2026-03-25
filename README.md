@@ -15,7 +15,7 @@
 
 ## 3D Printed Enclosure
 You can print your own enclosure or modify the design:
-- [Download STL files on Printables](PASTE_PRINTABLES_LINK_HERE)
+- [Download STL files on Printables](https://www.printables.com/model/1650064-modular-flip-disc-clock-enclosure)
 - [Download the Fusion 360 source file](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/enclosure-modular-flip-disc-clock.f3d)
 
 
