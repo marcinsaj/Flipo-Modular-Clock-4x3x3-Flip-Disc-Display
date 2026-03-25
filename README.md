@@ -13,6 +13,12 @@
 - power supply from USB-C PD 12V
 - ISP programming connector - only for intermediate users
 
+## 3D Printed Enclosure
+You can print your own enclosure or modify the design:
+- [Download STL files on Printables](PASTE_PRINTABLES_LINK_HERE)
+- [Download the Fusion 360 source file](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/enclosure-modular-flip-disc-clock.f3d)
+
+
 ## Datasheet
   - [CLOCK USER MANUAL](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Manual-Modular-Flip-Disc-Clock.pdf)
   - [HOW TO READ THE DISPLAY](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display/raw/main/datasheet/Modular-Flip-Disc-Clock-Symbols.pdf)
